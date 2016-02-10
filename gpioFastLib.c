@@ -461,7 +461,6 @@ void fastSetGpioD(unsigned int uintGpio) {
     *((unsigned long *)mapped_PIOD_SODR_addr) = ulnGpio;
 }
 
-
 /*
 Function:       void fastClearGpioX(unsigned int uintGpio)
 Aim:            Clear given gpio
