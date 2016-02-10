@@ -26,7 +26,7 @@
  * 2013 April 01 - First release
  * 2013 April 05 - Update comments and text formatting
  * 2013 April 08 - Update function name readGpio(..) in fastReadGpio(..)
- * 2016 Febrary 08 - Update with others registers, move verbose check form runtime to compiler task
+ * 2016 Febrary 10 - Update with others registers, move verbose check form runtime to compiler task
  *
  */
 
